@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akindele ABDULAZEEZ</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Nigeria </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heroboycloud&label=Profile%20views&color=0e75b6&style=flat" alt="heroboycloud" /> </p>
 
@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **Laptop**
 
-- 👨‍💻 All of my projects are available at [http://akindel-portfolio.netlify.apl](http://akindel-portfolio.netlify.apl)
+- 👨‍💻 All of my projects are available at [http://akindel-portfolio.netlify.app](http://akindel-portfolio.netlify.app)
 
 - 📝 I regularly write articles on [Medium, Sitepoint](Medium, Sitepoint)
 
