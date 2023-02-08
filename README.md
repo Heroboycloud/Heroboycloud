@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/akindel" target="blank"><img src="https://img.shields.io/twitter/follow/akindel?logo=twitter&style=for-the-badge" alt="akindel" /></a> </p>
 
-- 🔭 I’m currently working on **Nodejs**
+- 🔭 I’m currently working on **Nodejs**, **Python** and **PHP**
 
 - 🌱 I’m currently learning **JavaScript**
 
