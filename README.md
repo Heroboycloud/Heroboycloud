@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Akindele ABDULAZEEZ AKINTAYI</h1>
+<h1 align="center">Hi 👋, I'm Akindele ABDULAZEEZ AKINTAYO</h1>
 <h3 align="center">A passionate Fullstack developer from Nigeria </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heroboycloud&label=Profile%20views&color=0e75b6&style=flat" alt="heroboycloud" /> </p>
@@ -6,6 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=heroboycloud" alt="heroboycloud" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/akindel" target="blank"><img src="https://img.shields.io/twitter/follow/akindel?logo=twitter&style=for-the-badge" alt="akindel" /></a> </p>
+- I am available anytime
 
 - 🔭 I’m currently working on **Nodejs**, **Python** and **PHP**
 
