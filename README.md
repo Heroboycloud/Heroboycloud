@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Laravel**, **React**,**Wordpress plugin development** and **Django**
 
-- 👯 I’m looking to collaborate onn **React** _projects_
+- 👯 I’m looking to collaborate on **React** _projects_
 
 - 🤝 I’m in a dire need of **Laptop** and a *good team*
 
