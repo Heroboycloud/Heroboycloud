@@ -1,8 +1,10 @@
 name: HeroboyCloud Profile Actions
 run-name: ${{ github.actor }} testing this action
 on: [push]
-jobs: Running Github Action on my Portfolio
-steps:
+jobs:
+  Explore-GitHub-Actions:
+    runs-on: ubuntu-latest
+    steps:
       - run: echo "🎉 The job was automatically triggered by a ${{ github.event_name }} event."
       - run: echo "🐧 This job is now running on a ${{ runner.os }} server hosted by GitHub!"
       - run: echo "🔎 The name of your branch is ${{ github.ref }} and your repository is ${{ github.repository }}."
@@ -15,10 +17,3 @@ steps:
           ls ${{ github.workspace }}
       - run: echo "🍏 This job's status is ${{ job.status }}."
       - run: echo "Mr.Heroboy, I bet you are seeing this for the first time"
-
- Just Echo :
-   runs-on: ubuntu-latest
-      steps:
-        - run: echo "Yeah!! Just echoing around here .. This place looks stuffy"
-
-
