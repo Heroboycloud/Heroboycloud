@@ -7,11 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/akindel" target="blank"><img src="https://img.shields.io/twitter/follow/akindel?logo=twitter&style=for-the-badge" alt="akindel" /></a> </p>
 <strong style="color:green">I am available anytime</strong>
+<br>
 
 > I am focused mainly on Python, Nodejs and React Projects
 
 
-*Call me on* [09059460362](tel://+2349059460362)
+*Call me on* [09059460362](tel://2349059460362)
+
 
 - 🔭 I’m currently working on **Nodejs**, **Python** and **PHP**
 
