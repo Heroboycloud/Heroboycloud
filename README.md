@@ -6,7 +6,12 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=heroboycloud" alt="heroboycloud" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/akindel" target="blank"><img src="https://img.shields.io/twitter/follow/akindel?logo=twitter&style=for-the-badge" alt="akindel" /></a> </p>
-- I am available anytime
+<strong style="color:green">I am available anytime</strong>
+
+> I am focused mainly on Python, Nodejs and React Projects
+
+
+*Call me on* [09059460362](tel://+2349059460362)
 
 - 🔭 I’m currently working on **Nodejs**, **Python** and **PHP**
 
@@ -16,7 +21,7 @@
 
 - 🤝 I’m in a dire need of **Laptop** and a *good team*
 
-- 👨‍💻 All of my projects are available at [http://akindel-sweetapps.netlify.app](http://akindel-sweetapps.netlify.app)
+- 👨‍💻 All of my projects are available at [http://akindel-sweetapps.netlify.app](http://akindel-sweetapps.vercel.app)
 
 - 📝 I regularly write articles on [Medium, Sitepoint](Medium, Sitepoint)
 
